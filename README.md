@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I'm a Software Engineer<br>- 📫 How to reach me aymannashat28@gmail.com (let's collab)<br>- ⚡ Ask me about my experience with C#, .Net core,Sql, or anything related to Backed End development.</p>
+<p align="left">- 🔭 I'm a Software Engineer<br>- 📫 How to reach me aymannashat28@gmail.com (let's collab)<br>- ⚡ Ask me about my experience with C#, .Net core,Sql, or anything related to Backed End development.</p>
 
 ###
 
